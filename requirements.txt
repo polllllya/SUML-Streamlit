@@ -4,3 +4,6 @@ sentencepiece
 pandas
 matplotlib
 sacremoses
+torch 
+torchvision 
+torchaudio
